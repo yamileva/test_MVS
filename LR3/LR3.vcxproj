@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Balance.h" />
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="Segment.h" />
     <ClInclude Include="New.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

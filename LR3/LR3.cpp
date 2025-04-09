@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "Balance.h"
-#include "Header.h"
+#include "Segment.h"
 
 
 int main()
