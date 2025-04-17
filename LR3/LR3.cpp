@@ -14,4 +14,5 @@ int main()
   s1.get_begin().set_x(8);
   std::cout << s1.get_begin().get_x() << " " << s1.get_begin().get_y() << ", "
     << s1.get_end().get_x() << " " << s1.get_end().get_y() << std::endl;
+  //comment 
 }
